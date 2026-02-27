@@ -1,17 +1,14 @@
 # Foundations_Lab_Final
-Student Name: [Isabelli duran]
-Course: Cybersecurity Foundations Intensive: Night 1
-Date: February 23, 2026
-Instructor: [George]
+**Student Name:** [Isabelli duran]
+**Course:** Cybersecurity Foundations Intensive: Night 4
+**Date:** February 26, 2026
+**Instructor:** [George]
 
 ---
 
 ## Technical Overview
 Hello World. This repository serves as the primary workbench for the Foundations Lab.
-# Foundations Lab Final: Professional Identity & Workbench
-**Student Name:** [Isabelli Duran]  
-**Course:** Cybersecurity Foundations Intensive night 2 
-**Date:** February 25, 2026
+# Foundations Lab Final: Professional Identity & Workbench 
 
 ---
 
